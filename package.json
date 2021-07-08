@@ -1,0 +1,22 @@
+{
+  "name": "pargin",
+  "version": "1.0.0",
+  "description": "Simple utility function for writing margin and padding at same time",
+  "main": "index.js",
+  "keywords": [
+    "margin",
+    "padding",
+    "pargin",
+    "utility"
+  ],
+  "author": "Nika Sepiskveradze",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^2.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nikasepiskveradze/pargin.git",
+    "directory": "/"
+  }
+}
